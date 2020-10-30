@@ -1,0 +1,15 @@
+{
+    "name": "tebak-aku",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "snowpack dev"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@snowpack/plugin-svelte": "^3.1.0",
+        "snowpack": "^2.15.1",
+        "svelte": "^3.29.4"
+    }
+}
